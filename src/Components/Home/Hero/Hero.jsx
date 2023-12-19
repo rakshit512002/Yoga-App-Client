@@ -37,11 +37,11 @@ const Hero = () => {
                 mb: 5,
               }}
             >
-              Welcome to Yoga Buddy
+{/*               Welcome to Yoga Buddy */}
             </Typography>
-{/*             <Title variant="h1">
-              Discover a life where you'll love to live.
-            </Title> */}
+            <Title variant="h1">
+              Welcome to Yoga Buddy...
+            </Title>
             <Typography
               variant="body2"
               sx={{ fontSize: '18px', my: 4 }}
